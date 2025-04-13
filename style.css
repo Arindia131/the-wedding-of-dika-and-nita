@@ -201,13 +201,18 @@ body{
     margin-bottom: 80px;
 }
 
+.info {
+    background-color: var(--green);
+    color: white;
+    padding-top: 10rem;
+    padding-bottom: 15rem;
+}
 
-.info,
 .Ucapan {
     background-color: var(--green);
     color: white;
     padding-top: 10rem;
-    padding-bottom: 10rem;
+    padding-bottom: 8rem;
 }
 
 .info h2,
